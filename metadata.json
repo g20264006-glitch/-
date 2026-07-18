@@ -1,0 +1,6 @@
+{
+  "name": "AI 윤리 캠프 - 불공정 리셀러 AI 고치기",
+  "description": "12~14세 학생들이 불공정한 리셀러 AI 에이전트를 분석하고, 공정성·개인정보 보호·투명성·사람 확인 원칙을 반영한 에이전트를 설계 및 테스트해보는 교육용 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
